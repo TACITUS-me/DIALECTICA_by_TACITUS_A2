@@ -1,3 +1,5 @@
+> **Historical prototype.** DIALECTICA A2 is the earlier Python implementation. Current capsule-engine development is [DIALECTICA v3](https://github.com/sargonxg/A3_DIALECTICAbyTACITUS_v3). For a smaller runnable policy task, start with the [maintained policy pipeline](https://github.com/TACITUS-me/Open_Starting_Kpipeline_TACITUS) and [Workbench](https://github.com/sargonxg/tacitus-workbench). The documentation below describes the historical A2 stack; it does not establish a current hosted PRAXIS integration or production acceptance.
+
 # DIALECTICA by TACITUS
 
 ### The universal data layer for human friction and warfare intelligence
