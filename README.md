@@ -29,8 +29,8 @@ DIALECTICA is a neurosymbolic conflict intelligence platform that structures any
 ### Local Development (Docker — fastest)
 
 ```bash
-git clone https://github.com/sargonxg/A2_DIALECTICAbyTACITUS.git
-cd A2_DIALECTICAbyTACITUS
+git clone https://github.com/TACITUS-me/DIALECTICA_by_TACITUS_A2.git
+cd DIALECTICA_by_TACITUS_A2
 
 # 1. Configure environment
 cp .env.example .env
@@ -578,3 +578,9 @@ Apache 2.0 — see [LICENSE](LICENSE)
 ---
 
 *DIALECTICA by TACITUS — Making conflict computable enough for better human judgment.*
+
+## Learn, inspect and verify
+
+[Practical guide, code and research](TACITUS_GUIDE.md) · [Original 8-bit teaching adventure](tacitus-demo/index.html) · [Credits](tacitus-demo/CREDITS.md)
+
+![Original TACITUS House of Evidence; a synthetic teaching scene](tacitus-demo/mansion.png)
